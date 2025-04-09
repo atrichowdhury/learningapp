@@ -1,0 +1,7 @@
+/Users/atrichowdhury/Documents/tmp2/learningapp/.bin/Publish/learningapp
+/Users/atrichowdhury/Documents/tmp2/learningapp/.bin/Publish/appsettings.Development.json
+/Users/atrichowdhury/Documents/tmp2/learningapp/.bin/Publish/appsettings.json
+/Users/atrichowdhury/Documents/tmp2/learningapp/.bin/Publish/learningapp.dll
+/Users/atrichowdhury/Documents/tmp2/learningapp/.bin/Publish/learningapp.deps.json
+/Users/atrichowdhury/Documents/tmp2/learningapp/.bin/Publish/learningapp.runtimeconfig.json
+/Users/atrichowdhury/Documents/tmp2/learningapp/.bin/Publish/learningapp.pdb
